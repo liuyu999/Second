@@ -52,4 +52,5 @@ def drop():
 
 
 if __name__ == '__main__':
+'''改了bug'''
     manager.run()
